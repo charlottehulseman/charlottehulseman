@@ -18,6 +18,8 @@
 <img src="https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white" /> <img src="https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white" />
 
 
+### Stats
+<img src="https://github-readme-stats.vercel.app/api?username=charlottehulseman" />
 
 
 
