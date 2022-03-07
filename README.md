@@ -4,7 +4,7 @@
 
 - I recently graduated from the University of Washington's Full Stack Development bootcamp, and am seeking an opportunity to contribute to an impactful product and a diverse, dynamic team.
 - I'm a dynamic team player, have a strong work ethic and an empathetic, user-centric eye for design.
-- I live in NYC with my Siberian Husky named Panda, and love to get outside and be active.
+- I live in NYC with my Siberian Husky named Panda. I love long walks, coffee, reading, chess, boxing, and scuba diving when I can.
 - You can reach me at cchulseman@gmail.com, or connect with me on [LinkedIn](https://www.linkedin.com/in/charlotte-hulseman/).
 
 ### Languages and Tools
