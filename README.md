@@ -1,4 +1,4 @@
-## Hi there! I'm Charlotte Hulseman
+## Hey there! I'm Charlotte Hulseman
 
 ### I'm a Software Engineer and UX Designer
 
