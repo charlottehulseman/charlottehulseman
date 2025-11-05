@@ -1,11 +1,12 @@
-## I'm Charlotte Hulseman
+## Charlotte Hulseman | Software Engineer 
 
-### I'm a Software Engineer
+I'm a software engineer focused on ML and fullstack development. I have a degree in UX Design, but started teaching myself how to code during college. Since then, I've completed a fullstack development bootcamp and an ML Engineering bootcamp.
 
-- I work at Macy's Inc as a Software Engineer.
-- I'm a dynamic team player, confident communicator and presentor with a strong work ethic and positive attitude.
-- I currently reside in NYC with my Siberian Husky named Panda. I love reading, cooking, long walks with my dog, traveling and trying new things around the city. I recently started doing Muay Thai, archery and long-distance running.
-- You can reach me at cchulseman@gmail.com, or connect with me on [LinkedIn](https://www.linkedin.com/in/charlotte-hulseman/).
+I worked at Macy's Inc as a software engineer for 3 years, and now I'm working as an ML engineer focused on agent tooling and MCP integrations. As I step down the stack and explore different areas of tech, I bring a variety of skills to the table and am excited about learning new things and taking on challenging projects.
+
+Outside of the digital world, I live in NYC with my Siberian Husky named Panda. I love to cook, read, go to the movies, and explore spots in the city. I'm also an amateur boxer, currently training for my next fight.
+
+You can reach me at cchulseman@gmail.com, or connect with me on [LinkedIn](https://www.linkedin.com/in/charlotte-hulseman/).
 
 ### Languages and Tools
 
