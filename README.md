@@ -4,7 +4,7 @@ I'm a software engineer focused on ML and fullstack development. I have a degree
 
 I worked at Macy's Inc as a software engineer for 3 years, and now I'm working as an ML engineer focused on agent tooling and MCP integrations. As I step down the stack and explore different areas of tech, I bring a variety of skills to the table and am excited about learning new things and taking on challenging projects.
 
-Outside of the digital world, I live in NYC with my Siberian Husky named Panda. I love to cook, read, go to the movies, and explore spots in the city. I'm also an amateur boxer, currently training for my next fight.
+Outside of the digital world, I live in NYC with my Siberian Husky named Panda. I love to cook, read, go to the movies, and explore spots in the city. I'm also an amateur boxer, currently training for my second fight.
 
 You can reach me at cchulseman@gmail.com, or connect with me on [LinkedIn](https://www.linkedin.com/in/charlotte-hulseman/).
 
